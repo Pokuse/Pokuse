@@ -1,4 +1,4 @@
-<img src="banner_github.png.png" alt="GitHub Banner" width="100%" />
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World! 👋🏼:  
 👨🏼‍🎓 studying software engineer degree from university of central lancashire <br>
