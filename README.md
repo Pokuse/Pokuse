@@ -1,10 +1,8 @@
 <img src="banner_github.png.png" alt="GitHub Banner" width="100%" />
 
 # Hello World! 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>
-👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>
-👨🏼‍💻 working as a web developer since 2022 <br>
-🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+👨🏼‍🎓 studying software engineer degree from university of central lancashire <br>
+👨🏼‍💻 working as a game developer <br>
 ###
 
 <img align="right" height="150" src="https://tenor.com/IjaV.gif"  />
