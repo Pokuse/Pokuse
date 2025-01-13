@@ -1,6 +1,6 @@
 <img src="banner_github.png.png" alt="GitHub Banner" width="100%" />
 
-# Hello World! 👋🏼:
+# Hello World! 👋🏼:  
 👨🏼‍🎓 studying software engineer degree from university of central lancashire <br>
 👨🏼‍💻 working as a game developer <br>
 ###
